@@ -1,0 +1,1 @@
+export const skillList = ["Kotlin" , "Java", "Web Development", "Javascript", "C#",  "Angular", "Python"]

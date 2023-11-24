@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have created a new Portfolio for myself in React. It was time to update my old portfolio because it was written in basic HTML, JAVASCRIPT and CSS. Very basic. I love the components of React because of the organization. I made my new portfolio a single page site, but if I wanted to link to more pages in the future, the components make it easy to have consistency. 
 
-## Available Scripts
+In order to run this, do an npm install, then npm start. CTRL + Click on the localhost instance that shows up in your terminal. 
 
-In the project directory, you can run:
+[Software Demo Video](https://youtu.be/BwP12Wh5BbY)
 
-### `npm start`
+# Web Pages
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I created this as a single page site with multiple links going to various components. I have a link for the projects, about me and contact me. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Development Environment
 
-### `npm test`
+React
+Javascript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Useful Websites
+* [freeCodeCamp](https://www.freecodecamp.org/news/build-portfolio-website-react/)
+* [medium.com-react](https://medium.com/@keilalofra/building-a-portfolio-using-create-react-app-and-netlify-fed783f8b6cf)
+* [W3schools](https://www.w3schools.com/howto/howto_js_lightbox.asp)
+* [yet-another-react-lightbox](https://yet-another-react-lightbox.com/)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Future Work
+* I have other projects that I want to add, so I would like to make it so when there are lots of projects listed, or all, that lightbox on the main page has a horizontal scroll feature or arrows. 
+* I want the videos to be pulled from a website, like youtube or screenpal, instead of having to have them in my code. 
